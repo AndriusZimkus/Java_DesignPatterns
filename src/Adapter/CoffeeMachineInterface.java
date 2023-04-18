@@ -1,4 +1,4 @@
-package AdapterUngraded;
+package Adapter;
 
 public interface CoffeeMachineInterface {
     public void chooseFirstSelection();

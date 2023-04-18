@@ -1,4 +1,4 @@
-package AdapterUngraded;
+package Adapter;
 
 public class CoffeeTouchscreenAdapter implements CoffeeMachineInterface {
 

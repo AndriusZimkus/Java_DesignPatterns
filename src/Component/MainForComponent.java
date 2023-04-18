@@ -1,4 +1,4 @@
-package ComponentUngraded;
+package Component;
 
 public class MainForComponent {
     public static void main(String[] args) {

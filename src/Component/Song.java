@@ -1,4 +1,4 @@
-package ComponentUngraded;
+package Component;
 
 public class Song implements IComponent {
 

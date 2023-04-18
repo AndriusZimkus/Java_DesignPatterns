@@ -43,13 +43,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainForComponent">
+  <component name="RunManager" selected="Application.Component.MainForComponent">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdapterUngraded.Main" />
+    <configuration name="MainForAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.MainForAdapter" />
       <module name="Java_DesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -57,7 +57,7 @@
       </method>
     </configuration>
     <configuration name="MainForComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComponentUngraded.MainForComponent" />
+      <option name="MAIN_CLASS_NAME" value="Component.MainForComponent" />
       <module name="Java_DesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -79,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainForComponent" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Component.MainForComponent" />
+        <item itemvalue="Application.MainForAdapter" />
       </list>
     </recent_temporary>
   </component>

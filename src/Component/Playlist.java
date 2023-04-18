@@ -1,4 +1,4 @@
-package ComponentUngraded;
+package Component;
 
 import java.util.ArrayList;
 

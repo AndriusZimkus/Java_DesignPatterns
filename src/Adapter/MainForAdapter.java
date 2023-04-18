@@ -1,6 +1,6 @@
-package AdapterUngraded;
+package Adapter;
 
-public class Main {
+public class MainForAdapter {
     public static void main(String[] args) {
 
         // The client

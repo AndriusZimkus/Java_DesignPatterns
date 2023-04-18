@@ -1,7 +1,7 @@
-package ComponentUngraded;
+package Component;
 
 public interface IComponent {
-    
+
     public void play();
 
     public void setPlaybackSpeed(float speed);
