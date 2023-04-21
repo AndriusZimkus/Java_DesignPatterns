@@ -43,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Component.MainForComponent">
+  <component name="RunManager" selected="Application.MainForAdapter">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -79,7 +79,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Component.MainForComponent" />
         <item itemvalue="Application.MainForAdapter" />
       </list>
     </recent_temporary>
